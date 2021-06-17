@@ -1,0 +1,135 @@
+{
+  "id": "1484277",
+  "name": "学工系统",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "461385",
+      "name": "锁",
+      "font_class": "suo",
+      "unicode": "e6b5",
+      "unicode_decimal": 59061
+    },
+    {
+      "icon_id": "2021069",
+      "name": "文件夹",
+      "font_class": "wenjianjia",
+      "unicode": "e669",
+      "unicode_decimal": 58985
+    },
+    {
+      "icon_id": "2151536",
+      "name": "导出",
+      "font_class": "daochu",
+      "unicode": "e6a9",
+      "unicode_decimal": 59049
+    },
+    {
+      "icon_id": "2797431",
+      "name": "用户",
+      "font_class": "-user",
+      "unicode": "e640",
+      "unicode_decimal": 58944
+    },
+    {
+      "icon_id": "3182723",
+      "name": "文本",
+      "font_class": "weibiaoti--",
+      "unicode": "e763",
+      "unicode_decimal": 59235
+    },
+    {
+      "icon_id": "5383826",
+      "name": "文件夹 打开",
+      "font_class": "wenjianjiadakai",
+      "unicode": "e679",
+      "unicode_decimal": 59001
+    },
+    {
+      "icon_id": "5953049",
+      "name": "删 除",
+      "font_class": "shanchu1",
+      "unicode": "e6a7",
+      "unicode_decimal": 59047
+    },
+    {
+      "icon_id": "8162056",
+      "name": "修 改",
+      "font_class": "-edit",
+      "unicode": "e637",
+      "unicode_decimal": 58935
+    },
+    {
+      "icon_id": "8162057",
+      "name": "新增 (1)",
+      "font_class": "-add",
+      "unicode": "e638",
+      "unicode_decimal": 58936
+    },
+    {
+      "icon_id": "8162058",
+      "name": "当前位置",
+      "font_class": "-position",
+      "unicode": "e639",
+      "unicode_decimal": 58937
+    },
+    {
+      "icon_id": "8162063",
+      "name": "钉 (1)",
+      "font_class": "ding",
+      "unicode": "e63e",
+      "unicode_decimal": 58942
+    },
+    {
+      "icon_id": "8185141",
+      "name": "删除",
+      "font_class": "shanchu",
+      "unicode": "e63c",
+      "unicode_decimal": 58940
+    },
+    {
+      "icon_id": "8435203",
+      "name": "退出",
+      "font_class": "tuichu",
+      "unicode": "e674",
+      "unicode_decimal": 58996
+    },
+    {
+      "icon_id": "10997760",
+      "name": "down-point",
+      "font_class": "down-point",
+      "unicode": "e697",
+      "unicode_decimal": 59031
+    },
+    {
+      "icon_id": "10997762",
+      "name": "left-point",
+      "font_class": "left-point",
+      "unicode": "e699",
+      "unicode_decimal": 59033
+    },
+    {
+      "icon_id": "10997765",
+      "name": "right-point",
+      "font_class": "right-point",
+      "unicode": "e69a",
+      "unicode_decimal": 59034
+    },
+    {
+      "icon_id": "10997769",
+      "name": "up-point",
+      "font_class": "up-point",
+      "unicode": "e69b",
+      "unicode_decimal": 59035
+    },
+    {
+      "icon_id": "11537109",
+      "name": "文件",
+      "font_class": "text",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    }
+  ]
+}

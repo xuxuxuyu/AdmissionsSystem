@@ -1,0 +1,23 @@
+/*
+ * 响应式
+ */
+
+@media screen and (max-width: 3840px) {
+}
+
+@media screen and (max-width: 1250px) {
+  .app-container {
+    overflow-x: scroll;
+  }
+  
+}
+/*@media screen and (max-width: 1366px){
+	.app-page-box-table.big-height {
+	  height: calc(100% - 100px) !important;
+	}
+}
+@media screen and (max-width: 1600px){
+	.app-page-box-table.big-height {
+	  height: calc(100% - 100px) !important;
+	}
+}*/
